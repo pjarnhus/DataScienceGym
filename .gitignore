@@ -1,0 +1,6 @@
+#Jupyter Notebook checkpoints
+/.ipynb_checkpoints/*
+Solutions/.ipynb_checkpoints/*
+
+#Dataprep folder
+/data_prep/*
