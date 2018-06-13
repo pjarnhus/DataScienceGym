@@ -17,3 +17,8 @@ When contributing new exercises, please keep the following in mind:
 When submitting a pull request, I will
 * Take time to walk through your exercises. This is done to test whether the exercises are formulated clearly
 * Run the solution notebook a couple of times to ensure the consistency of the results
+
+## Credit
+You are free to add name and contact information in the exercise sets you create or remain anonymous. Just remember that any exercises, solutions and data you submit to the repository will be treated under the MIT license.
+
+Thank you for helping out!
