@@ -16,6 +16,8 @@ You are of course always welcome to open an issue here on GitHub, if any of the 
 ## Getting involved
 The more exercises there are in a repo like this, the better it is. Everyone is welcome to contribute, as long as they follow the structure mentioned above and in the contribution guidelines
 
+**Even if you are not up for contributing exercises, you can always add a topic to the wishlist in the wiki!!**
+
 Enjoy the exercises, and let me know if anything is left wanting.
 
 /Philip
