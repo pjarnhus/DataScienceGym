@@ -12,6 +12,7 @@ When contributing new exercises, please keep the following in mind:
 6. Any result in the solution should be 100% reproduciable, i.e. seeds and random_states should be set explicitly
 7. Have sufficient explanatory text before each exercise
 8. Give the necessary hints for each exercise. Remember this is intended for learning, not showing off the author's skills
+9. Always run the clean-up script, before submitting a Pull Request
 
 ## Review process
 When submitting a pull request, I will
