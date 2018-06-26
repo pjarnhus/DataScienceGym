@@ -42,4 +42,4 @@ for filename in ([('',fn)
             cell['execution_count'] = None
     
     nb_clean['cells'] = nb['cells']
-    json.dump(nb_clean, open(filename[0]+filename[1], 'w'))
+    json.dump(nb_clean, open(filename[0]+filename[1], 'w'), indent=1)
