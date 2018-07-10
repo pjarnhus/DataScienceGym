@@ -6,3 +6,6 @@ Solutions/.ipynb_checkpoints/*
 /data_prep/*
 
 TODO
+
+#Temporary database created during the exercises
+/data/test.db
