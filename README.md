@@ -13,6 +13,14 @@ Should you get stuck, there is a corresponding notebook in the solutions folder 
 
 You are of course always welcome to open an issue here on GitHub, if any of the exercises do not make sense. Chances are you are not the only one facing an issue.
 
+## List of topics
+### Pandas exercises
+* **pandas_1**: DataFrame shape, columns and data types
+* **pandas_2**: Group By
+* **pandas_3**: Merge and Concatenation
+* **pandas_4**: Missing values
+* **pandas_5**: I/O
+
 ## Getting involved
 The more exercises there are in a repo like this, the better it is. Everyone is welcome to contribute, as long as they follow the structure mentioned above and in the contribution guidelines
 
