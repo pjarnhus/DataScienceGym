@@ -7,7 +7,8 @@ This repository is a collection of small training exercises aimed at keep releva
 Each Jupyter Notebook in the main folder contains five assignments. The first four assigments are centred around a topic, while the fifth assigment purposefully off-topic. Usually the fifth is some nifty little trick, which may come in handy in a data science workflow.
 
 ## Getting started
-In order to get started you need a python installation and Jupyter Notebooks. It is assumed, that you have this and knows how to work with it. After that you can merely take the notebooks one at a time.
+In order to get started you need a python installation and Jupyter Notebooks. It is assumed, that you have this and know how to work with it. After that you can merely take the notebooks one at a time.
+If you do not have python installed, the [Anaconda distribution](https://www.anaconda.com/download/) can be recommended.
 
 Should you get stuck, there is a corresponding notebook in the solutions folder with a worked through example.
 
