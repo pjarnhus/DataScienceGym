@@ -1,5 +1,4 @@
-# Data Science Gym
-## Gotta Solve Them All!
+# Data Science Gym - Gotta Solve Them All!
 **A series of little puzzles and training exercises aimed at improving python knowledge for data science**
 
 ## What is it?
