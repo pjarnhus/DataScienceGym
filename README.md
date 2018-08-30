@@ -22,6 +22,7 @@ You are of course always welcome to open an issue here on GitHub, if any of the 
 * **pandas_4**: Missing values
 * **pandas_5**: I/O
 * **pandas_6**: Melt and Pivot
+* **pandas_7**: Time series
 
 ## Getting involved
 The more exercises there are in a repo like this, the better it is. Everyone is welcome to contribute, as long as they follow the structure mentioned above and in the contribution guidelines
