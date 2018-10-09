@@ -5,13 +5,14 @@ import argparse
 parser = argparse.ArgumentParser(description='Clean-up exercise notebooks.')
 parser.add_argument('filenames', metavar='filename', type=str, nargs='+',
                    help='names of the notebooks to be cleaned')
+parser.add_argument('-s','--solution_only', action='store_false', help='flag used to indicate that clean-up should only run in solution folder')
 
 args = parser.parse_args()
 
 # Open existing notebook
-for filename in ([('',fn)
+for filename in (([('',fn)
                     for fn in args.filenames
-                    if fn[-6:] == '.ipynb']
+                    if fn[-6:] == '.ipynb'] if args.solution_only else [])
                 +[('Solutions/',fn)
                     for fn in args.filenames
                     if fn[-6:] == '.ipynb']):
