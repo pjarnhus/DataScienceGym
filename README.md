@@ -22,8 +22,9 @@ You are of course always welcome to open an issue here on GitHub, if any of the 
 * **pandas_4**: Missing values
 * **pandas_5**: I/O
 * **pandas_6**: Melt and Pivot
-* **pandas_7**: Time series - Part I
-* **pandas_8**: Time series - Part II
+* **pandas_7**: Time series - Part I: Creating and filtering on DatetimeIndex
+* **pandas_8**: Time series - Part II: Custom frequency on DatetimeIndex
+* **pandas_9**: Time series - Part III: Offsetting DatetimeIndex
 
 ## Getting involved
 The more exercises there are in a repo like this, the better it is. Everyone is welcome to contribute, as long as they follow the structure mentioned above and in the contribution guidelines
